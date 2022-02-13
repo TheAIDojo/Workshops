@@ -18,5 +18,5 @@ In this workshop you will learn how to use the sklearn package to build, train, 
 
 ## Workshop Links
 
-[Introduction to Deep Learning - Workshop Code]()
+[Introduction to Deep Learning - Workshop Code](https://colab.research.google.com/github/TheAIDojo/Machine_Learning_Bootcamp/blob/main/Week%2003%20-%20Machine%20Learning%20Algorithms/1-%20Scikit_Learn.ipynb)
 
